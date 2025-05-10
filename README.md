@@ -33,7 +33,7 @@ Available LLM models are listed in [this page](https://ollama.com/library).
 
 Once downloaded, you can open [http://localhost:3000](http://localhost:3000).
 
-![Browser](screen.png "Browser")
+![Browser](https://raw.githubusercontent.com/kondonator/ollama-open-webui/images/screen.png)
 
 All data is stored under ./docker/local/ollama and ./docker/local/open-webui.
 
